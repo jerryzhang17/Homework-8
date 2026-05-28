@@ -1,4 +1,3 @@
-Here it is as one big copyable block:
 # Campus Taskboard API
 
 A RESTful task management API built with Spring Boot, Spring Data JPA, and H2. Features Spring Security, CORS configuration, API versioning, integration testing, and Swagger documentation.
